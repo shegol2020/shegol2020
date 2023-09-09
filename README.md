@@ -2,7 +2,7 @@
 
 I am Anastasia Shchegol, junior Frontend Developer. 
 
-I like to learn things from scratch, so I spend a lot of time studying vanilla JS. 
+I like to learn things from scratch, so I spend a lot of time studying vanilla JS. Now I learn React and Typescript.
 
 I'm highly interested in the field of digital accessibility. The prospect of enriching the internet's value and its ease of use for a wider array of users motivates me. Moreover, this presents an intriguing challenge for me as a developer.
 
